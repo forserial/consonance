@@ -1,0 +1,8 @@
+{
+  "jspm": {
+    "name": "consonance",
+    "directories": {
+      "packages": "packages"
+    }
+  }
+}
