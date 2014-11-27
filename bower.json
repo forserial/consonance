@@ -1,12 +1,12 @@
 {
   "name": "consonance",
   "version": "0.0.0",
-  "homepage": "https://johndzi.github.io/consonance",
+  "homepage": "https://forserial.github.io/consonance",
   "authors": [
     "Janusz Dziurzynski <janusz@forserial.org>"
   ],
   "description": "playing with the WebAudio API. eventually this will be a library, maybe?",
-  "main": "consonance.min.js",
+  "main": "lib/consonance.js",
   "keywords": [
     "WebAudio",
     "audio",
