@@ -20,5 +20,9 @@
     "components",
     "test",
     "tests"
-  ]
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "private": true
 }
